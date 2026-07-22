@@ -1,6 +1,6 @@
 # Cloudville city map repo
 ![Static Badge](https://img.shields.io/badge/Map-Incomplete-red)
-![Static Badge](https://img.shields.io/badge/Discord_Status-Online-green)
+![Discord Status](https://img.shields.io/badge/Discord%20Status-Active-green?style=flat&logo=discord)
 
 ## How it works:
 
