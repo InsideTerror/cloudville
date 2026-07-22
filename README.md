@@ -1,5 +1,5 @@
 # Cloudville city map repo
-
+![Static Badge](https://img.shields.io/badge/Map_Version-Incomplete-red)
 
 ## How it works:
 
